@@ -1,22 +1,34 @@
 {
   "files": {
-    "main.css": "/multi-page-website/static/css/main.bf63482d.chunk.css",
-    "main.js": "/multi-page-website/static/js/main.323978f1.chunk.js",
-    "main.js.map": "/multi-page-website/static/js/main.323978f1.chunk.js.map",
+    "main.css": "/multi-page-website/static/css/main.28523e9f.chunk.css",
+    "main.js": "/multi-page-website/static/js/main.888feb15.chunk.js",
+    "main.js.map": "/multi-page-website/static/js/main.888feb15.chunk.js.map",
     "runtime-main.js": "/multi-page-website/static/js/runtime-main.5c68fb5b.js",
     "runtime-main.js.map": "/multi-page-website/static/js/runtime-main.5c68fb5b.js.map",
-    "static/js/2.f25ebba9.chunk.js": "/multi-page-website/static/js/2.f25ebba9.chunk.js",
-    "static/js/2.f25ebba9.chunk.js.map": "/multi-page-website/static/js/2.f25ebba9.chunk.js.map",
+    "static/js/2.9c1f81c6.chunk.js": "/multi-page-website/static/js/2.9c1f81c6.chunk.js",
+    "static/js/2.9c1f81c6.chunk.js.map": "/multi-page-website/static/js/2.9c1f81c6.chunk.js.map",
     "index.html": "/multi-page-website/index.html",
-    "precache-manifest.9fd607d7d7aa636ed2316c1ab91de35d.js": "/multi-page-website/precache-manifest.9fd607d7d7aa636ed2316c1ab91de35d.js",
+    "precache-manifest.51f009faf8853fade6ee5e113066fd3c.js": "/multi-page-website/precache-manifest.51f009faf8853fade6ee5e113066fd3c.js",
     "service-worker.js": "/multi-page-website/service-worker.js",
-    "static/css/main.bf63482d.chunk.css.map": "/multi-page-website/static/css/main.bf63482d.chunk.css.map",
-    "static/js/2.f25ebba9.chunk.js.LICENSE.txt": "/multi-page-website/static/js/2.f25ebba9.chunk.js.LICENSE.txt"
+    "static/css/main.28523e9f.chunk.css.map": "/multi-page-website/static/css/main.28523e9f.chunk.css.map",
+    "static/js/2.9c1f81c6.chunk.js.LICENSE.txt": "/multi-page-website/static/js/2.9c1f81c6.chunk.js.LICENSE.txt",
+    "static/media/bars.jpeg": "/multi-page-website/static/media/bars.8bd0426f.jpeg",
+    "static/media/book3D.jpeg": "/multi-page-website/static/media/book3D.17a51ab7.jpeg",
+    "static/media/customAnimations.jpeg": "/multi-page-website/static/media/customAnimations.337f481c.jpeg",
+    "static/media/giveAway.jpeg": "/multi-page-website/static/media/giveAway.18dc4426.jpeg",
+    "static/media/multi-page-website.jpeg": "/multi-page-website/static/media/multi-page-website.427c424e.jpeg",
+    "static/media/newsSite.jpeg": "/multi-page-website/static/media/newsSite.1f47ae77.jpeg",
+    "static/media/popUp.jpeg": "/multi-page-website/static/media/popUp.98d203ce.jpeg",
+    "static/media/profile.jpeg": "/multi-page-website/static/media/profile.70b61715.jpeg",
+    "static/media/renovation.jpeg": "/multi-page-website/static/media/renovation.bfd673f4.jpeg",
+    "static/media/self.jpeg": "/multi-page-website/static/media/self.1fa5239e.jpeg",
+    "static/media/todoApp2.JPG": "/multi-page-website/static/media/todoApp2.66b9357d.JPG",
+    "static/media/weatherApp.jpeg": "/multi-page-website/static/media/weatherApp.a8615aa5.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.5c68fb5b.js",
-    "static/js/2.f25ebba9.chunk.js",
-    "static/css/main.bf63482d.chunk.css",
-    "static/js/main.323978f1.chunk.js"
+    "static/js/2.9c1f81c6.chunk.js",
+    "static/css/main.28523e9f.chunk.css",
+    "static/js/main.888feb15.chunk.js"
   ]
 }
